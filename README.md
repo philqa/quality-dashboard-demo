@@ -3,6 +3,8 @@
 This repository provides a simple script for pulling data from Github about some popular UI libraries and publishing it to 
 a local InfluxDB database. A Grafana Dashboard JSON model template can then be imported to visualize the data.
 
+This code was pushed as part of the following article: https://phil.qa/article/quality-dashboards
+
 ## Prerequisites
 - Docker Desktop
 - NodeJS (tested with v12)
